@@ -1,0 +1,12 @@
+var x = 1
+var /* comment */ y = 1;
+
+/*
+multiline comment
+asdasd
+*/
+
+var
+z
+=
+2
